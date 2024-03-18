@@ -1,5 +1,5 @@
 Peer review of R assignment
-
+```{r}
 1. I tried knit Usamah's code
   - Unfortunately, I got an error with line 52 - 55 saying "cannot open the connection"
   - So, to complete the peer review, I deleted line 52 - 55, then the code worked!
@@ -18,4 +18,5 @@ Peer review of R assignment
 
 5. Summary
   - In my opinion, his code worked well. And the overall structure is good. I think he understand his job for the assignment and code in R. 
-    Great job!   
+    Great job!
+```    
